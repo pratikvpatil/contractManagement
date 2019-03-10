@@ -1,0 +1,3 @@
+com/aconex/cost/contract/repositories/ContractRepositoryTest.class
+com/aconex/cost/contract/services/ContractServiceTest.class
+com/aconex/cost/contract/controllers/ContractsControllerTest.class
