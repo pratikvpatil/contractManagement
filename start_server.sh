@@ -1,0 +1,1 @@
+java -jar target/contract-1.0.0-SNAPSHOT.jar server src/main/resources/app.yml
