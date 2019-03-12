@@ -1,8 +1,8 @@
-/mnt/g/jobs/Oracle/contractManagement/src/main/java/com/aconex/cost/contract/controllers/ContractsController.java
-/mnt/g/jobs/Oracle/contractManagement/src/main/java/com/aconex/cost/contract/views/ContractsView.java
-/mnt/g/jobs/Oracle/contractManagement/src/main/java/com/aconex/cost/contract/PrimaryApplication.java
-/mnt/g/jobs/Oracle/contractManagement/src/main/java/com/aconex/cost/contract/config/ApplicationConfiguration.java
-/mnt/g/jobs/Oracle/contractManagement/src/main/java/com/aconex/cost/contract/services/ContractService.java
-/mnt/g/jobs/Oracle/contractManagement/src/main/java/com/aconex/cost/contract/models/Contract.java
-/mnt/g/jobs/Oracle/contractManagement/src/main/java/com/aconex/cost/contract/repositories/ContractRepository.java
-/mnt/g/jobs/Oracle/contractManagement/src/main/java/com/aconex/cost/contract/controllers/AddContracts.java
+/mnt/g/jobs/Oracle/temp/contractManagement/src/main/java/com/aconex/cost/contract/controllers/AddContracts.java
+/mnt/g/jobs/Oracle/temp/contractManagement/src/main/java/com/aconex/cost/contract/PrimaryApplication.java
+/mnt/g/jobs/Oracle/temp/contractManagement/src/main/java/com/aconex/cost/contract/repositories/ContractRepository.java
+/mnt/g/jobs/Oracle/temp/contractManagement/src/main/java/com/aconex/cost/contract/views/ContractsView.java
+/mnt/g/jobs/Oracle/temp/contractManagement/src/main/java/com/aconex/cost/contract/config/ApplicationConfiguration.java
+/mnt/g/jobs/Oracle/temp/contractManagement/src/main/java/com/aconex/cost/contract/controllers/ContractsController.java
+/mnt/g/jobs/Oracle/temp/contractManagement/src/main/java/com/aconex/cost/contract/models/Contract.java
+/mnt/g/jobs/Oracle/temp/contractManagement/src/main/java/com/aconex/cost/contract/services/ContractService.java

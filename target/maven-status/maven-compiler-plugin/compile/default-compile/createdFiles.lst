@@ -1,6 +1,6 @@
+com/aconex/cost/contract/controllers/AddContracts$ContractPostInput.class
 com/aconex/cost/contract/views/ContractsView.class
 com/aconex/cost/contract/config/ApplicationConfiguration.class
-com/aconex/cost/contract/controllers/AddContracts$TestClass.class
 com/aconex/cost/contract/services/ContractService.class
 com/aconex/cost/contract/models/Contract.class
 com/aconex/cost/contract/controllers/ContractsController.class

@@ -25,23 +25,23 @@ public class AddContracts {
 
 	@POST
 	@UnitOfWork
-    public Response index(TestClass c) {
+    public Response index(ContractPostInput contract_from_post) {
         Session session  = sessionFactory.getCurrentSession();
 		Contract contract = new Contract();
-		contract.setCode(c.contractcode);
-		contract.setDescription(c.description);
-		contract.setVendor(c.vendor);
-		contract.setBudget(c.budget);
-		contract.setForecast(c.forecast);
-		contract.setPaid(c.payment);
-		contract.setPercentComplete(c.percentComplete);
-		contract.setCommitted(c.committed);
+		contract.setCode(contract_from_post.contractcode);
+		contract.setDescription(contract_from_post.description);
+		contract.setVendor(contract_from_post.vendor);
+		contract.setBudget(contract_from_post.budget);
+		contract.setForecast(contract_from_post.forecast);
+		contract.setPaid(contract_from_post.payment);
+		contract.setPercentComplete(contract_from_post.percentComplete);
+		contract.setCommitted(contract_from_post.committed);
 		session.persist(contract);
 
         return Response.ok().build();
     }
     
-	 public static class TestClass {
+	 public static class ContractPostInput {
 
         @JsonProperty("contractcode")
         public String contractcode;
